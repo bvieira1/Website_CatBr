@@ -10,8 +10,9 @@
 
 # Website desenvolvido para a Empresa CAT - Centro de Aperfeiçoamento Tecnológico
 https://catbr.com.br/
+https://catbr.com.br/Faculdade
 
-Com BD em MYSQL, sistema cum o Crud feito em Laravel Voyager.
+> Projeto foi desenvolvido em Laravel, conta com um CRUD para postagens de cursos e serviços, alteração de qual quer texto ou imagem no site, desenvolvido em, Laravel com conexão ao Banco de Dados em MYSQL.**
 
 
 <p align="center">
